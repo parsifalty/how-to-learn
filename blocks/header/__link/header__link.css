@@ -3,4 +3,9 @@
     text-decoration: none;
     z-index: 2;
     position: relative;
+    transition: opacity .9s ease;
+  }
+
+  .header__link:hover { 
+    opacity: 50%;
   }
