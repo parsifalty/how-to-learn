@@ -5,9 +5,4 @@
     flex-direction: column;
     list-style-type: none;
     padding: 0px;
-    transition: opacity .9s ease;
-  }
-
-  .footer__column-link:hover { 
-    opacity: 50%;
-  }
+}
